@@ -24,7 +24,7 @@
         "rules": {
             "recommended": true,
             "style": {
-                "useNodejsImportProtocol": "off"
+                "useNodejsImportProtocol": "warn"
             }
         }
     },
