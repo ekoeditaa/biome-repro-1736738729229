@@ -9,7 +9,7 @@
 		"check": "biome check",
 		"ci": "biome ci"
 	},
-	"devDependencies": {
-		"@biomejs/biome": "1.9.4"
+	"workspaces": {
+		"packages": ["app_one", "app_two"]
 	}
 }
